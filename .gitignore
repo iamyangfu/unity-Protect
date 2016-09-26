@@ -28,7 +28,13 @@
 *.out
 *.app
 
+<<<<<<< HEAD
 /Library/*
 /obj/*
 /*.csproj/*
 /*.userprefs/*
+=======
+/MVC/*
+!/MVC/Assets/
+!/MVC/ProjectSettings/
+>>>>>>> origin/master
