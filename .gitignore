@@ -27,3 +27,8 @@
 *.exe
 *.out
 *.app
+
+/Library/*
+/obj/*
+/*.csproj/*
+/*.userprefs/*
